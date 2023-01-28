@@ -11,7 +11,9 @@ PLAYER 2 CONTROLS:
 UP key - up
 
 DOWN key - down
+
 <img width="746" alt="image" src="https://user-images.githubusercontent.com/89557223/215241215-7e048201-c145-4677-9868-2e40bd68ac98.png">
+
 Change Speed Button changes the speed of the pong ball. There are 4 settings
 Normal
 Fast
